@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//xAI//Lunar Comedy Calendar//EN
+BEGIN:VEVENT
+UID:1@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:2@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:3@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:4@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:5@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:6@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:7@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:8@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:9@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:10@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:11@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:12@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:13@lunarcomedy
+SUMMARY:Full Moon - Glitch Jokes Only Day
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DESCRIPTION:No explanations allowed. Valid responses: "🌙", "check your phase coupling", *toaster ding*
+END:VEVENT
+BEGIN:VEVENT
+UID:14@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260114
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:15@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260213
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:16@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260315
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:17@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260414
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:18@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260513
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:19@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:20@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260711
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:21@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:22@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260908
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:23@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261007
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:24@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261105
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+BEGIN:VEVENT
+UID:25@lunarcomedy
+SUMMARY:Waning Crescent - Error Poem Festival
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:Submit your best contradictions. Judging follows.
+END:VEVENT
+END:VCALENDAR
